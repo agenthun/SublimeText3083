@@ -1,0 +1,1 @@
+{"platforms": ["*"], "version": "2.5.0", "sublime_text": "*", "description": "Code Formatter plugin for ST2/ST3", "url": "https://github.com/akalongman/sublimetext-codeformatter", "dependencies": []}

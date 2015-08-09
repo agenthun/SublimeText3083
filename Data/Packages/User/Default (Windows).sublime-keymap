@@ -1,0 +1,63 @@
+[
+/*    { "keys": ["ctrl+shift+c"], "command": "copy_path" },*/
+/*    //firefox
+    { "keys": ["f1"], "command": "side_bar_files_open_with",
+             "args": {
+                "paths": [],
+                "application": "C:\\software\\Browser\\Mozilla Firefox\\firefox.exe",
+                "extensions":".*" //匹配任何文件类型
+            }
+    },
+    //chrome
+    { "keys": ["f2"], "command": "side_bar_files_open_with",
+            "args": {
+                "paths": [],
+                "application": "C:\\Users\\Mr.DenGo\\AppData\\Local\\Google\\Chrome\\Application\\chrome.exe",
+                "extensions":".*"
+            }
+     },
+    //ie
+     { "keys": ["f3"], "command": "side_bar_files_open_with",
+             "args": {
+                "paths": [],
+                "application": "C:\\Program Files\\Internet Explorer\\iexplore.exe",
+                "extensions":".*"
+            }
+    },
+    //safari
+    { "keys": ["f4"], "command": "side_bar_files_open_with",
+            "args": {
+                "paths": [],
+                "application": "C:\\software\\Browser\\Safari\\safari.exe",
+                "extensions":".*"
+            }
+     },
+     //opera
+     { "keys": ["f5"], "command": "side_bar_files_open_with",
+             "args": {
+                "paths": [],
+                "application": "C:\\software\\Browser\\opera\\opera.exe",
+                "extensions":".*"
+            }
+    }*/
+    //SogouExplorer
+    { "keys": ["f5"], "command": "side_bar_files_open_with",
+             "args": {
+                "paths": [],
+                "application": "E:\\Program Files\\SogouExplorer\\SogouExplorer.exe",
+                "extensions":".*"
+            }
+    },
+    {
+        "keys": ["ctrl+alt+shift+m"], "command": "sublime_tmpl",
+        "args": {"type": "Markdown"}
+    },
+    {
+        "keys": ["ctrl+alt++shift+h"], "command": "sublime_tmpl",
+        "args": {"type": "Embedded-H"}
+    },
+    {
+        "keys": ["ctrl+alt++shift+c"], "command": "sublime_tmpl",
+        "args": {"type": "Embedded-C"}
+    }
+]
