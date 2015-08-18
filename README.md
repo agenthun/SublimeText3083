@@ -5,14 +5,23 @@
 
 # Packages Installed
 Emmet
-Markdown Editing
-Package Control
-Side Bar
-SublimeGit
-SublimeTmpl
-CodeFormatter
-ConvertToUTF8
-SublimeLinter
-ColorPicker
-SublimeAStyleFormatter
 
+Markdown Editing
+
+Package Control
+
+Side Bar
+
+SublimeGit
+
+SublimeTmpl
+
+CodeFormatter
+
+ConvertToUTF8
+
+SublimeLinter
+
+ColorPicker
+
+SublimeAStyleFormatter
